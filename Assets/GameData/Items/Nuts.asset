@@ -16,6 +16,8 @@ MonoBehaviour:
   stackable: 1
   icon: {fileID: 1072893472, guid: 6b6db0ceb0e7e4e42992dcf4b2bc3036, type: 3}
   onAction: {fileID: 0}
-  onTileMapAction: {fileID: 0}
-  onItemUsed: {fileID: 0}
-  crop: {fileID: 0}
+  onTileMapAction: {fileID: 11400000, guid: bbb0f553573ad4247a2222e7fe6d3ecf, type: 2}
+  onItemUsed: {fileID: 11400000, guid: bbb0f553573ad4247a2222e7fe6d3ecf, type: 2}
+  crop: {fileID: 11400000, guid: a148c5a533565804799d90fa29053c9c, type: 2}
+  price: 150
+  canBeSold: 1
